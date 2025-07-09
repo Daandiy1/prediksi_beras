@@ -4,5 +4,5 @@ numpy
 matplotlib
 seaborn
 scikit-learn
-tensorflow
+tensorflow==2.19.0
 joblib
